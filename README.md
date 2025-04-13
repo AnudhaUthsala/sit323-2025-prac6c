@@ -1,6 +1,6 @@
 
 ## **Project Overview**  
-This repository contains the implementation of **Task 6.1C** which demonstrates:  
+This repository contains the implementation of **Task 6.1C 2** which demonstrates:  
 - ✅ Deployment of a containerized Node.js application to Kubernetes  
 - ✅ Configuration of Kubernetes manifests (Deployment + Service)  
 - ✅ Local cluster management using Minikube  
